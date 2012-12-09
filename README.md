@@ -1,4 +1,3 @@
-bryson.github.com
-=================
+# bryson.github.com
 
 GitHub Pages Homepage
